@@ -18,6 +18,9 @@ Arduino then immediately activates the L298N Motor Driver module to open the doo
 
 Team-
 1	20171CSE0003	AASHIKA
+
 2	20171CSE0014	ABHIRAM PK
+
 3	20171CSE0025	AHADH SHAJAHAN
+
 4	20171CSE0049	AMINA AHMED
